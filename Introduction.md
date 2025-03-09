@@ -6,6 +6,7 @@ class:
   - invert
 ---
 
-Differential Forms
+# Differential Forms Lecture 1:
+## Introduction
 
 ---

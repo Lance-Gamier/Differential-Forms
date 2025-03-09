@@ -6,6 +6,7 @@ class:
   - invert
 ---
 
-Differential Forms
+# Differential Forms Lecture 2:
+## Review of Multivariable Calculus and Vector Calculus
 
 ---
