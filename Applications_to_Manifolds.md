@@ -10,3 +10,5 @@ class:
 ## Application to Manifolds
 
 ---
+
+### Hodge Star Operator

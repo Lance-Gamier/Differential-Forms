@@ -10,3 +10,13 @@ class:
 ## Generalized Stokes Theorem
 
 ---
+
+### Green's Theorem
+
+--- 
+
+### Stokes' Theorem
+
+---
+
+### Divergence Theorem
